@@ -1,7 +1,5 @@
-# Project Name          : Banking System
-# Made by               : rakesh kumar
-# session               : your session name
-# roll  no              : your roll no
+# Project Name          : Banking Management Database System
+# Made by               : Neil, Manas and Hamzah
 
 import mysql.connector
 from datetime import date
