@@ -38,8 +38,8 @@ CREATE TABLE IF NOT EXISTS `customer` (
 --
 
 INSERT INTO `customer` (`acno`, `name`, `address`, `phone`, `email`, `aadhar_no`, `acc_type`, `status`, `balance`) VALUES
-(1, 'rakesh kumar', 'cf-4 surya nagar', '987181818', 'support@cbsetoday.com', '1234-1243-4545', 'saving', 'active', 12200.00),
-(2, 'raju vashistha', 'A-75-B Brij vihar', '96734344318', 'raju@cbsetoday.com', '4545-1243-4545', 'current', 'active', 10000.00),
+(1, 'rakesh kumar', 'cf-4 surya nagar', '987181818', 'support@outlook.com', '1234-1243-4545', 'saving', 'active', 12200.00),
+(2, 'raju vashistha', 'A-75-B Brij vihar', '96734344318', 'raju@hotmail.com', '4545-1243-4545', 'current', 'active', 10000.00),
 (3, 'archana', 'cf04 ', '4545456', 'archana@bianrynote.com', '1234-5656-4545', 'saving', 'active', 10000.00),
 (4, 'ashutosh', 'd-100 brij vihar', '1122334455', 'ashu@gmail.com', '1124-5656-6576', 'saving', 'close', 56000.00),
 (5, 'raman singh', 'e-40 radha bihar', '3344556677', 'raman@yahoo.com', '4455-5656-4545', 'saving', 'close', 20000.00),
